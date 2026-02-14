@@ -15,7 +15,7 @@
     "nuxt": "^3.16.1",
     "sockjs-client": "^1.6.1",
     "webstomp-client": "^1.2.6",
-    "marked": "4.0.10",
+    "marked": "0.3.18",
     "@babel/traverse":	"7.23.2"
   },
   "devDependencies": {
